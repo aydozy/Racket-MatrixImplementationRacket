@@ -1,4 +1,4 @@
-# Matrix-Implementation-Scheme
+# Matrix-Implementation-Racket
 
 A digital image is represented as a two-dimension matrix. Machine learning algorithms take an image as an input and apply different operations on it to learn useful information. In this assignment, you are going to write a Scheme program to implement different matrix operations. 
 
