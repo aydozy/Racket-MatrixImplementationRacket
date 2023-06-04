@@ -1,7 +1,5 @@
 #lang racket
 
-
-
 ;test
 ;(define M '( (1.1 2 3)    (3 3.5 4)    (-3 2.6 1) ) ) 
 
@@ -41,9 +39,6 @@
                   (set! max-row-sum (max max-row-sum row-sum))))
               m)
     max-row-sum))
-
-  
-
   
 ; output
 (display "Row Max: ")
